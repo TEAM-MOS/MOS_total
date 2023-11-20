@@ -10,6 +10,11 @@ iOS 어플/취업 준비생을 위한 스터디 어플
  * 23.08.10~23.11.07
 <br>
 
+
+## 🧷FrontEnd
+
+## 🧷BackEnd
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 ## 👩‍👩‍👧‍👧 팀원 소개
 <table>
   <tbody>
@@ -24,5 +29,7 @@ iOS 어플/취업 준비생을 위한 스터디 어플
 
 
 <br>
+
+## MAIN LOGO
 <img src = "https://github.com/TEAM-MOS/MOS_total/assets/127409712/25166edc-c376-4b27-9619-c3aa45a68468.jpg" width="300" height="300">
 
